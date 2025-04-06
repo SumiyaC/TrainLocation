@@ -26,8 +26,8 @@ Train Tracker is a website that retrieves current train locations from the DigiT
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/train-tracker.git
-    cd train-tracker
+    git clone https://github.com/SumiyaC/TrainLocation.git
+    cd TrainLocation
     ```
 
 2. **Install dependencies**:
