@@ -21,10 +21,9 @@ const getTrainLocations = async (req, res) => {
       };
     });
 
-    // Map train locations and metadata
     const trains = response.data.map(train => ({
       trainNumber: train.trainNumber,
-      coordinates: train.location?.coordinates || [0, 0], // Default if missing
+      coordinates: train.location?.coordinates || [0, 0],
       speed: train.speed || 0,
       type: trainInfoMap[train.trainNumber]?.type || "Unknown",
       origin: trainInfoMap[train.trainNumber]?.origin || "N/A",

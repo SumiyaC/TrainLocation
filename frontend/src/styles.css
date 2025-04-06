@@ -1,14 +1,12 @@
-/* 🌟 General Page Layout */
 .app-container {
     display: flex;
     flex-direction: column;
     height: 100vh;
   }
   
-  /* 🚆 Header Styling */
   .app-header {
     text-align: center;
-    background-color: #5a844f; /* Train-themed color */
+    background-color: #5a844f; 
     color: white;
     padding: 15px;
     font-family: Arial, sans-serif;
