@@ -1,4 +1,4 @@
-![TrainTrackerWebApp](C:\githubRepos\TrainLocation\frontend\public\images\TrainInfo.png)
+![Image](https://github.com/user-attachments/assets/adb9babb-a223-4a0b-aaeb-a4d9f728645c)
 
 # Train Location Tracker 🚆
 
