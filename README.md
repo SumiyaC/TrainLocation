@@ -40,11 +40,19 @@ Train Tracker is a website that retrieves current train locations from the DigiT
    node server.js
     ```
     
+<<<<<<< HEAD
 4. **Start the application**:
+=======
+4. **start the application**:
+>>>>>>> b6abd35f9a50e54a589e8dedb8c11416482c9dea
     ```bash
    npm start
     ```
 
 ## API Used
 - **DigiTraffic API**: Provides real-time train location data and metadata-https://www.digitraffic.fi/en/railway-traffic/
+<<<<<<< HEAD
+=======
+
+>>>>>>> b6abd35f9a50e54a589e8dedb8c11416482c9dea
 
