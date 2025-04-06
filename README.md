@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/adb9babb-a223-4a0b-aaeb-a4d9f728645c)
+![Image](https://github.com/user-attachments/assets/93ffe941-1eb1-4a18-8628-565d5483b1aa)
 
 # Train Location Tracker 🚆
 
@@ -37,10 +37,15 @@ Train Tracker is a website that retrieves current train locations from the DigiT
 
 3. **Run the server**:
     ```bash
-    npm start
+   node server.js
+    ```
+    
+4. **start the application**:
+    ```bash
+   npm start
     ```
 
 ## API Used
-- **DigiTraffic API**: Provides real-time train location data and metadata.
+- **DigiTraffic API**: Provides real-time train location data and metadata-https://www.digitraffic.fi/en/railway-traffic/
 
 
