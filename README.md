@@ -1,4 +1,4 @@
-!Train Logo(C:\githubRepos\TrainLocation\frontend\public\images\trainLogo.jpg)
+![Train tracker](C:\githubRepos\TrainLocation\frontend\public\images\TrainInfo.png)
 
 # Train Location Tracker 🚆
 
